@@ -22,6 +22,10 @@ class ViewController: UIViewController {
 //                print(error)
 //        }
 
+        
+        
+        //f2第一次提交
+        //f2第二次提交
         self.netTest()
         
         
