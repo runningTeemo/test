@@ -17,11 +17,14 @@ class ViewController: UIViewController {
 //            print(successTuple.code)
 //            print(successTuple.message)
 //            print(successTuple.data)
-//            
+//            fcod
 //            }) { (error) in
 //                print(error)
 //        }
 
+        
+        
+        //f2第一次提交
         self.netTest()
         
         
